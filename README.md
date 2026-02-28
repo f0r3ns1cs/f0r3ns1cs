@@ -35,8 +35,12 @@
 ---
 
 <details>
-<summary><b>Manifest</b></summary>
+<summary>Manifest</summary>
+  
 - Living inside of Visual Studio, IDA Pro, Windows Terminal, SSH.
+
 - Driven by caffiene and ambition
-- Analyzing and assessing systems and software daily. 
+
+- Analyzing and assessing systems and software daily.
+
 </details>
