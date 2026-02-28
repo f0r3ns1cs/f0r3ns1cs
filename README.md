@@ -1,16 +1,12 @@
-## Hi there 👋
+## Hi, I'm f0r3ns1cs👋
+📍 **New York**
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Reverse Engineering](https://img.shields.io/badge/-Reverse%20Engineering-222222?style=flat-square&logo=hackthebox&logoColor=white)
+![CLI](https://img.shields.io/badge/-CLI-4D4D4D?style=flat-square&logo=gnubash&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![Full-Stack](https://img.shields.io/badge/-Full--Stack-FF6C37?style=flat-square&logo=stackbit&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 
-<!--
-**f0r3ns1cs/f0r3ns1cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> From architecting low-level software with C/C++ and assembly to building full-stack web applications, I operate at all ends of an application. I like to build things to understand how they break.
