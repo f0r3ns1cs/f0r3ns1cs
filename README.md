@@ -14,8 +14,6 @@
 ## Projects
 
 - ⚡ **[naiveutility.cc](https://naiveutility.cc/)** (closed source) – Low-Latency, High Performance Windows Optimization Toolkit. 
-- 💎 **[valtastruct.com](https://valtastruct.com/)** (closed source) – A network of advanced tools for Windows.
-- 🔒 **[curvorian.com](https://curvorian.com/)** (closed source) – Specialized utility suite for system-level analysis and hardening.
 
 ## What I'm Doing
 
