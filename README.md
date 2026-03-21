@@ -13,7 +13,7 @@
 
 ## Projects
 
-- ⚡ **[naiveutility.cc](https://naiveutility.cc/)** (closed source) – Low-Latency, High Performance Windows Optimization Toolkit. 
+- ⚡ **[Curvorian](https://curvorian.com/)** (closed source) – Low-Latency, High Performance Windows Optimization Toolkit. 
 
 ## What I'm Doing
 
