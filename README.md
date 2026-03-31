@@ -13,30 +13,30 @@
 
 ## Projects
 
-- ⚡ **[Curvorian](https://curvorian.com/)** (closed source) – Low-Latency, High Performance Windows Optimization Toolkit. 
+- **[Curvorian](https://curvorian.com/)** (closed source) – Windows Optimization Toolkit. 
 
 ## What I'm Doing
 
 - **System Engineering** - Creating cool low-level stuff with C++ and assembly.
-- **Full-Stack Development** - Occasionally work on APIs, websites, and high-performance software.
-- **Reverse Engineering** - Constantly reversing and analyzing software and obfuscated code.
+- **Full-Stack Development** - Occasionally working on APIs, websites, and high-performance software.
+- **Reverse Engineering** - Reversing and analyzing software and obfuscated code.
   
 ### Philosophy
 
-> "Complexity managed, not hidden." Good software is a lie if the backend is a mess of technical debt. My philosophy is to maintain integrity and structure at every layer.
+> "Complexity managed, not hidden." Good software is a lie if the code is a mess. My philosophy is to maintain integrity and structure at every layer.
 
 ## Connect
 
 [![Twitter](https://img.shields.io/badge/-@f0r3ns1cs-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/f0r3ns1cs)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/f0r3ns1cs)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/8E6r6Jp4Va)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/JUTVrtffpr)
 ---
 
 <details>
 <summary>Manifest</summary>
   
 * Living inside of Visual Studio, IDA Pro, Windows Terminal, SSH.
-* Driven by caffiene and ambition
-* Analyzing and assessing systems and software daily.
+* Driven by caffiene and obsession.
+* Analyzing systems and software daily.
 
 </details>
