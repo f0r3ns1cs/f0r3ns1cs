@@ -1,5 +1,4 @@
-## 0x0 // f0r3ns1cs
-📍 **Pennsylvania**
+## f0r3ns1cs
 
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?style=flat-square&logo=webassembly&logoColor=white)
@@ -13,7 +12,7 @@
 
 ## Projects
 
-- **[Curvorian](https://curvorian.com/)** (closed source) – Windows Optimization Toolkit. 
+- **[Curvorian](https://curvorian.com/)** (closed source) - Know your Windows tweaks before you trust them. 
 
 ## What I'm Doing
 
